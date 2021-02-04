@@ -1,0 +1,26 @@
+header {
+    background: #a52b2a;
+    color: #ffffff;
+    text-align: center;
+}
+
+.sunset {
+    width: 100%;
+}
+
+.cars img {
+    border: 2px dashed #000000;
+    margin: 0px 5px 0px 5px;
+}
+
+.cars {
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    background: #000000;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 0px;
+}
